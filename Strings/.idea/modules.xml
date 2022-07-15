@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Strings.iml" filepath="$PROJECT_DIR$/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String-Builder and StringBuffer func/String-Builder and StringBuffer func.iml" filepath="$PROJECT_DIR$/String-Builder and StringBuffer func/String-Builder and StringBuffer func.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Strings.iml" filepath="$PROJECT_DIR$/.idea/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings-basics/Strings-basics.iml" filepath="$PROJECT_DIR$/Strings-basics/Strings-basics.iml" />
     </modules>
   </component>
 </project>
