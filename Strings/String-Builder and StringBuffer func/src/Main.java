@@ -57,7 +57,7 @@ public class Main {
 
          length(), charAt(index), indexOf(str), indexOf(str,fromIndex)
          lastIndexOf(str), last IndexOf(str, fromIndex), compareTo(sb),
-         subString(beginIndex), subString(beginIndex, endIndex-1), chars(), etc.
+         substring(beginIndex), substring(beginIndex, endIndex-1), chars(), etc.
 
          New Methods :
          ----------------
