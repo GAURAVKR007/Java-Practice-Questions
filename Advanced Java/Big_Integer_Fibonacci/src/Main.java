@@ -20,8 +20,8 @@ public class Main {
 
         for(int i=2; i<=num ; i++){
             sum = first.add(second);
-            second = sum;
             first = second;
+            second = sum;
         }
         return sum;
     }
